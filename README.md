@@ -3,7 +3,7 @@
 **Contacto**  
 📧 danielalejandro.amaroramos@gmail.com  
 📍 Havana, Cuba  
-📱 +34 604 994 465 ( solo WhatsApp )
+📱 [+34 604 994 465](https://wa.me/34604994465) ( solo WhatsApp )  
 📱 [Skipey](https://join.skype.com/invite/L3OEBU8Bp9ZI)
 
 ## Perfil Profesional  
