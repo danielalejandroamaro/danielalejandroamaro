@@ -1,60 +1,117 @@
+# Daniel Alejandro Amaro Ramos
 
+**Contacto**  
+📧 danielalejandro.amaroramos@gmail.com  
+📍 Havana, Cuba  
+📱 +34 604 994 465 (WhatsApp)  
+📱 +5358237267 (WhatsApp o llamadas)
 
-**Daniel Alejandro Amaro Ramos**  
-**Software Developer (Full Stack) & Data Architect**  
-📧 danielalejandro.amaroramos@gmail.com | 📱 +34 604 994 465 | 📍 Havana, Cuba  
-
----
-
-### **Professional Profile**  
-Highly skilled Full-Stack Developer with **over 9 years of continuous professional experience** since graduating from the University of Havana in 2016. Expert in designing scalable web applications, implementing data analytics pipelines, and managing DevOps practices. Proficient in Python, JavaScript (Vue.js/React), SQL/NoSQL databases, and cloud infrastructure. Proven leadership in agile teams, combining technical expertise with psychological insights to drive innovation and deliver user-centric solutions.  
-
----
-
-### **Key Skills**  
-- **Development**: Python (Django, FastAPI, Pandas), JavaScript (Vue.js, React, Node.js), SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis).  
-- **Data & AI**: Big Data (Spark, Kafka, Hadoop), ML (TensorFlow, PyTorch), data visualization (ECharts, D3.js), statistical analysis.  
-- **DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions), cloud platforms (AWS, Google Cloud).  
-- **Leadership**: Agile methodologies (Scrum/Kanban), cross-functional team management, code reviews, and technical mentorship.  
-- **Languages**: Spanish (Native), English (B2).  
+## Perfil Profesional  
+Desarrollador Full Stack con experiencia en liderazgo técnico, arquitectura de datos y desarrollo de soluciones escalables. Combina habilidades en inteligencia artificial, análisis de datos y metodologías ágiles con una sólida base en investigación académica.
 
 ---
 
-### **Professional Experience**  
-**Senior FullStack & Data Architect** | *Solarte/UBER Agency* (2022–2024)  
-- Built a ride-sharing platform with real-time analytics, optimizing driver-client matching and resource allocation.  
-- Led Python/Vue.js development, integrating PostgreSQL, Redis, and WebSocket for seamless real-time operations.  
+## Habilidades Principales
 
-**Researcher** | *IMDEA Networks* (2023–2024)  
-- Analyzed telecom datasets to reconstruct user mobility patterns, contributing to academic publications on network optimization.  
+### **Soft Skills**  
+- Conocimiento psicológico aplicado a equipos de trabajo  
+- Capacidad para trabajar con recursos limitados y sin supervisión  
+- Aprendizaje continuo de nuevas tecnologías  
+- Resolución de problemas matemáticos complejos  
+- Idiomas: Español (nativo), Inglés (B2)  
 
-**Senior FullStack & Team Lead** | *Carefree/UnifieldHealth* (2018–2021)  
-- Modernized a legacy CRM system, reducing security incidents by 80% and enhancing UX with Vue.js/Vuetify.  
-- Managed cross-functional teams (Data/Dev), aligning technical strategy with business goals.  
+### **Liderazgo y Trabajo en Equipo** ⭐⭐⭐⭐  
+- Gestión de equipos técnicos y multidisciplinarios  
+- Planificación ágil (Scrum, Kanban)  
+- Resolución de conflictos y optimización de productividad  
 
-**Software Developer** | *Datys* (2018–2019)  
-- Optimized SQL queries and implemented ElasticSearch for high-performance data retrieval.  
-
----
-
-### **Academic & Research**  
-- **Publications**: Authored studies on informal currency markets and telecom traffic analysis using PCA.  
-- **Education**: B.Sc. in Computer Science (*University of Havana*, 2018).  
-- **Projects**: Anomaly detection in banking transactions, distributed CPU balancing systems, AR apps.  
-
----
-
-### **Technical Strengths**  
-- **Tools**: Docker, Kubernetes, AWS, Git, TensorFlow, Spark, Kafka.  
-- **Methodologies**: Agile, SOLID principles, microservices architecture.  
+### **Tecnologías**  
+| **Área**          | **Habilidades**                                                                 |
+|--------------------|--------------------------------------------------------------------------------|
+| **Python**         | Django, FastAPI, Pandas, NumPy, TensorFlow, Análisis de datos (⭐⭐⭐⭐⭐)          |
+| **JavaScript**     | Vue.js, React, Node.js, ES6+, WebSockets (⭐⭐⭐⭐⭐)                               |
+| **Bases de Datos** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis), Cloud (AWS, Google Cloud) (⭐⭐⭐⭐) |
+| **DevOps**         | Docker, Kubernetes, CI/CD (GitHub Actions), Rancher (⭐⭐⭐⭐⭐)                    |
+| **Big Data**       | Spark, Kafka, Hadoop, Procesamiento de datos en tiempo real (⭐⭐⭐⭐)             |
 
 ---
 
-### **Interests**  
-AI architectures, optimization algorithms, psychology-driven UX design, and compiler development.  
+## Experiencia Laboral
 
----  
-*Available for remote or hybrid roles. Open to innovative challenges in tech!*  
+### **IMDEA Networks (Madrid, España)**  
+*Investigador* | Septiembre 2023 – Febrero 2024  
+- Análisis de datasets de telecomunicaciones para reconstruir trayectorias de usuarios  
+- Uso de machine learning (TensorFlow) para identificar patrones de movilidad  
+- Publicación de resultados en colaboración con equipos internacionales  
 
----  
-**LinkedIn**: [Profile](https://www.linkedin.com/in/DanielAlejandroAmaroRamos)
+**Stack:** Python, Pandas, Linux, Matplotlib  
+
+---
+
+### **Solarte/UBER Agency (La Habana, Cuba)**  
+*Senior FullStack & Data Architect* | Agosto 2022 – Agosto 2024  
+- Desarrollo de plataforma de ride-sharing con análisis de datos en tiempo real  
+- Optimización de asignación de viajes mediante algoritmos basados en datos  
+- Arquitectura escalable con microservicios y WebSockets  
+
+**Tecnologías:** FastAPI, PostgreSQL, Redis, Vue.js, Docker  
+
+---
+
+### **Universidad de La Habana**  
+*Senior FullStack – Proyectos de Big Data* | Octubre 2021 – Presente  
+- Infraestructura para procesamiento de datos masivos (Spark, Kafka)  
+- Análisis de movilidad urbana para ministerios de Salud y Transporte  
+- Monitoreo de redes de telecomunicaciones en eventos masivos  
+
+**Logros:**  
+- Reducción del 40% en congestiones de torres celulares  
+- Modelos predictivos para brotes epidemiológicos  
+
+---
+
+### **Carefree/UnifieldHealth (Remoto)**  
+*Líder Técnico CRM* | Agosto 2018 – Enero 2021  
+- Modernización de sistema CRM legacy (Django 1.6 → 2.x)  
+- Implementación de interfaz moderna con Vue.js/Vuetify  
+- Gestión de equipo de 10+ desarrolladores y analistas  
+
+**Impacto:**  
+- Reducción del 80% en incidentes de seguridad  
+- Sistema aún en producción con <2% de tickets mensuales  
+
+---
+
+## Educación  
+**Universidad de La Habana**  
+* Licenciatura en Ciencias de la Computación (2018)*  
+*Tesis:* Detección de anomalías en transacciones bancarias (Python, sklearn)  
+
+---
+
+## Publicaciones Académicas  
+1. *"Eficiencia en mercados informales de divisas: El caso del Peso Cubano"*  
+2. *"Patrones latentes en tráfico móvil mediante Análisis de Componentes Principales"* (IMDEA Networks)  
+3. *Extensión del estudio sobre mercados informales (en progreso)*  
+
+---
+
+## Proyectos Destacados  
+- **Sistema de Detección de Fraude Bancario** (C# / Python)  
+- **Videojuego educativo** (Unity + ARCore)  
+- **Compilador para lenguaje Tigger** (Proyecto de grado)  
+
+---
+
+## Herramientas y Certificaciones  
+- **DevOps:** Docker, Kubernetes, Rancher, AWS  
+- **Data Science:** Pandas, Spark, Kafka, Tableau  
+- **Desarrollo:** VS Code, PyCharm, Git, Jira  
+- **Idiomas:** Inglés técnico (B2)  
+
+---
+
+## Intereses  
+- Investigación en metaheurísticas y optimización matemática  
+- Diseño de arquitecturas de IA escalables  
+- Psicología aplicada a UX y dinámicas de equipos  
