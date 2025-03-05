@@ -3,8 +3,8 @@
 **Contacto**  
 📧 danielalejandro.amaroramos@gmail.com  
 📍 Havana, Cuba  
-📱 +34 604 994 465 (WhatsApp)  
-📱 +5358237267 (WhatsApp o llamadas)
+📱 +34 604 994 465 ( solo WhatsApp )
+📱 [Skipey](https://join.skype.com/invite/L3OEBU8Bp9ZI)
 
 ## Perfil Profesional  
 Desarrollador Full Stack con experiencia en liderazgo técnico, arquitectura de datos y desarrollo de soluciones escalables. Combina habilidades en inteligencia artificial, análisis de datos y metodologías ágiles con una sólida base en investigación académica.
