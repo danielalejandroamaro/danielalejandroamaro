@@ -7,7 +7,7 @@
 ---
 
 ### **Professional Profile**  
-Highly skilled Full-Stack Developer with 6+ years of experience in designing scalable web applications, data analytics, and DevOps. Expertise in Python, JavaScript (Vue.js/React), SQL/NoSQL databases, and cloud infrastructure. Proven leadership in agile teams, combining technical proficiency with psychological insight to drive innovation and user-centric solutions.  
+Highly skilled Full-Stack Developer with **over 9 years of continuous professional experience** since graduating from the University of Havana in 2016. Expert in designing scalable web applications, implementing data analytics pipelines, and managing DevOps practices. Proficient in Python, JavaScript (Vue.js/React), SQL/NoSQL databases, and cloud infrastructure. Proven leadership in agile teams, combining technical expertise with psychological insights to drive innovation and deliver user-centric solutions.  
 
 ---
 
