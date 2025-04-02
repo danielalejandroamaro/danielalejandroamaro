@@ -1,4 +1,4 @@
-# Daniel Alejandro Amaro Ramos
+# Daniel Alejandro Amaro Ramos ( 33 años ) 10 años de experiencia
 
 **Contacto**  
 📧 danielalejandro.amaroramos@gmail.com  
